@@ -40,5 +40,5 @@ echo "<script language='take.js'></script>";
 
 ### Para testar e rodar o código siga esses passos:
 
-**Baixar: php**
-**Depois: php -S localhost:8080 index.php 
+- Baixar: php
+- Depois: php -S localhost:8080 index.php 
