@@ -3,7 +3,7 @@ Mostre os preços dos produtos para seu cliente enquanto ele conecta ao wifi da 
 
 ### html, js
 
-baixar código e abrir no navegador
+Baixar código e abrir no navegador ou copiar e testar com o inspecionar elemento.
 
 ```
 <script>
