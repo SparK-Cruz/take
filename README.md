@@ -1,2 +1,4 @@
-# take
-Mostre os preços dos produtos para seu cliente enquanto ele conecta ao wifi da sua loja.
+### take_mnsg 
+Mostre preços e imagens de produtos para o seu cliente apenas quando ele se conecta ao seu wifi. Esqueça sites e cms.
+
+![Logo](take.png)
