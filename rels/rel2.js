@@ -1,5 +1,7 @@
 // Resolução 2 por Guilherme Torquato
 
+"use strict";
+
 try { 
    navigator.connection.type =='wifi'  || navigator.mozConnection.type =='wifi' || navigator.webkitConnection.type =='wifi' 
    alert("Preço 12,90 , Bem Vindo a nossa Loja"){
